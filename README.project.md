@@ -2,22 +2,10 @@ This is a [Flow](http://onflow.org/) project bootstrapped with [flow-app-scafold
 
 ## Getting Started
 
-First, install packages for sub-projects:
+1. If you don't have Flow CLI, install [Flow command-line interface (CLI)](https://github.com/onflow/flow-cli).
 
-```bash
-cd api # and web
-yarn
-```
+2. Start the emulator.
 
-If you had installed [Flow CLI](https://github.com/onflow/flow-cli), start the emulator.
 ```bash
 flow emulator
-```
-
-At the meanwhile, you may want to open other 2 terminals and start api server and front-end app.
-```bash
-# terminal 1
-cd api && yarn start
-# terminal 2
-cd web && yarn start
 ```
