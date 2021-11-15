@@ -1,0 +1,6 @@
+{
+  "kitty-items": {
+    "repo": "https://github.com/onflow/kitty-items.git",
+    "branch": "master"
+  }
+}
