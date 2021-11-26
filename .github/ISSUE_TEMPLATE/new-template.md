@@ -1,6 +1,6 @@
 ---
-name: New Example Project
-about: Request to add a new example project
+name: New Template
+about: Request to add a new template
 title: ''
 labels: ''
 assignees: ''
@@ -10,8 +10,7 @@ assignees: ''
 
 _introduce the project you want to add_
 
-Project Repo: https://github.com/...
-Project Demo: https://...
+Template Repo: https://github.com/...
 
 ## Status
 
