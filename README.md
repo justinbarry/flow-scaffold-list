@@ -4,12 +4,10 @@ Flow App Scaffold
 Getting Started
 ---------------
 
-1. If you don't have Flow CLI, install it
-Before you start, install the [Flow command-line interface (CLI)](https://github.com/onflow/flow-cli).
+1. [Install the Flow CLI](https://github.com/onflow/flow-cli).
 
-2. Run app creator
+2. Run app scaffolding:
 ```bash
 flow app create
 ```
-
-It will start a interactive command line UI
+This will start interactive CLI and give you template options.
