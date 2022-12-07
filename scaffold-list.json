@@ -1,9 +1,15 @@
 [
-    {
+  {
     "name": "Empty Project",
-    "repo": "  https://github.com/sideninja/flow-basic-scaffold.git",
+    "repo": "https://github.com/sideninja/flow-basic-scaffold.git",
     "branch": "master",
-    "description": "Empty project contains all the standard Cadence folders and a folder for the backend as well as the frontend. The folders are kept empty for you to fill."
+    "description": "Empty project contains the standard empty Cadence folders structure as well as backend and frontend folders. Use this if you want to start from scratch.
+  },
+  {
+    "name": "",
+    "repo": "https://github.com/chasefleming/fcl-next-scaffold.git",
+    "branch": "master",
+    "description": "Flow Dapp project with preconfigured FCL on the frontend as well as NextJS."
   },
   {
     "name": "Kitty Items",
