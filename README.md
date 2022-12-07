@@ -2,10 +2,10 @@
 
 This repository contains a list of scaffolds used by the Flow CLI setup command. The list can be found inside the `scaffold-list.json` file. The format of the content is:
 ```json
-    "name": "name of the scaffold",
-    "repo": "HTTP URL to the repository containing the scaffold",
-    "branch": "scaffold repository branch",
-    "description": "user friendly description of the scaffold (what it contains, why it is used...)"
+"name": "name of the scaffold",
+"repo": "HTTP URL to the repository containing the scaffold",
+"branch": "scaffold repository branch",
+"description": "user friendly description of the scaffold (what it contains, why it is used...)"
 ```
 
 ### Contributing
