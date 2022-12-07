@@ -1,4 +1,10 @@
 [
+    {
+    "name": "Empty Project",
+    "repo": "  https://github.com/sideninja/flow-basic-scaffold.git",
+    "branch": "master",
+    "description": "Empty project contains all the standard Cadence folders and a folder for the backend as well as the frontend. The folders are kept empty for you to fill."
+  },
   {
     "name": "Kitty Items",
     "repo": "https://github.com/onflow/kitty-items.git",
