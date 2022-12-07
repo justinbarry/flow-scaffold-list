@@ -7,7 +7,7 @@
   },
   {
     "name": "FCL Dapp",
-    "repo": "https://github.com/chasefleming/fcl-next-scaffold.git",
+    "repo": "https://github.com/onflow/fcl-next-scaffold.git",
     "branch": "main",
     "description": "Flow Dapp project with preconfigured FCL on the frontend as well as NextJS."
   },
